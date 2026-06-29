@@ -149,8 +149,6 @@ export default function Footer() {
               </div>
             </div>
 
-            {/* Newsletter */}
-
             <div className="mt-8">
               <h4 className="text-white font-semibold mb-4">Newsletter</h4>
 
