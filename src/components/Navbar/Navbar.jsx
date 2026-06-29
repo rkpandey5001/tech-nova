@@ -32,10 +32,16 @@ export default function Navbar() {
           {/* Logo */}
 
           <Link to="/" className="flex items-center gap-3">
-            <img src="/images/logo/logo.png" alt="" className="w-12" />
+            <img
+              src="/images/logos/binarywebslogo.png"
+              alt=""
+              className="w-32"
+            />
 
             <div>
-              <h2 className="text-2xl font-bold text-blue-700">Techverve</h2>
+              <h2 className="text-2xl font-bold text-blue-700">
+                <span className="text-black">Binary</span>Webs
+              </h2>
 
               <p className="text-xs text-slate-500">Software Solutions</p>
             </div>

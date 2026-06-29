@@ -21,7 +21,11 @@ export default function Footer() {
           {/* Company */}
 
           <div>
-            <img src="/images/logo/logo.png" alt="Logo" className="h-14" />
+            <img
+              src="/images/logos/binarywebslogo.png"
+              alt="Logo"
+              className="h-14"
+            />
 
             <p className="mt-6 leading-8 text-gray-400">
               We build modern Websites, Web Applications, Enterprise Software,
@@ -173,7 +177,8 @@ export default function Footer() {
       <div className="border-t border-slate-800">
         <div className="container mx-auto px-6 py-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-center md:text-left">
-            © {new Date().getFullYear()} Your Company Name. All Rights Reserved.
+            © {new Date().getFullYear()} BinaryWebs Software Solutions. All
+            Rights Reserved.
           </p>
 
           <div className="flex gap-6 mt-4 md:mt-0">
