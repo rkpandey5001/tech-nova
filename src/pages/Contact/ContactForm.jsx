@@ -292,7 +292,7 @@ const ContactForm = () => {
                 className="w-full rounded-xl border border-gray-200 p-4 outline-none focus:border-blue-600"
               ></textarea>
 
-              {/* File Upload */}
+             
 
               <div className="rounded-xl border-2 border-dashed border-blue-300 p-6 text-center">
                 <p className="text-gray-600">Upload Requirement / Document</p>
