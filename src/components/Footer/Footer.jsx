@@ -158,7 +158,7 @@ export default function Footer() {
                 <input
                   type="email"
                   placeholder="Your Email"
-                  className="flex-1 rounded-l-xl px-4 py-3 bg-slate-800 border border-slate-700 outline-none"
+                  className="flex-1 rounded-l-xl sm:px-2 md:px-4 py-3 bg-slate-800 border border-slate-700 outline-none"
                 />
 
                 <button className="rounded-r-xl bg-blue-600 px-5 hover:bg-blue-700 duration-300">
